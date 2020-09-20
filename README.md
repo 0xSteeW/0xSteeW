@@ -32,15 +32,15 @@ Vim
 
  ---
 #### Operating System
-Arch Linux
+Arch Linux (ArcoLinux)
 
 ---
 #### Window manager
-HerbstluftWM
+Dwm
 
 ---
 #### Browser
-Vivaldi & Firefox
+Firefox
 
 ## Other hobbies
 
