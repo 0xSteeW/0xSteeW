@@ -28,11 +28,11 @@ If you have an open source project and need some help hit me up. I would be will
 ---
 ### War-prone things I like ;)
 #### Editor
-Vim
+Vim | Doom Emacs
 
  ---
 #### Operating System
-Arch Linux (ArcoLinux)
+Gentoo Linux
 
 ---
 #### Window manager
@@ -40,7 +40,7 @@ Dwm
 
 ---
 #### Browser
-Firefox
+Qutebrowser
 
 ## Other hobbies
 
