@@ -36,7 +36,7 @@ Gentoo Linux
 
 ---
 #### Window manager
-Dwm
+Emacs (exwm)
 
 ---
 #### Browser
