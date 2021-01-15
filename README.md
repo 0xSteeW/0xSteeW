@@ -36,11 +36,11 @@ Gentoo Linux
 
 ---
 #### Window manager
-Emacs (exwm)
+Sway (Wayland)
 
 ---
 #### Browser
-Qutebrowser
+Hardened Firefox
 
 ## Other hobbies
 
