@@ -1,3 +1,5 @@
+Most of the development is now happening in my personal Gitea.
+
 # 0xSteeW (Daniel Pérez)
 
 ## Who am I?
