@@ -4,7 +4,7 @@ Most of the development is now happening in my personal Gitea.
 
 ## Who am I?
 
-Hello! My name is Daniel. I'm a 18 year old spanish boy. I live in Madrid, an currently I'm starting the second year of Telecommunications Engineering in the Polythecnic University of Madrid.
+Hello! My name is Daniel. I'm a 19 year old spanish boy. I live in Madrid, an currently I'm starting the second year of Telecommunications Engineering in the Polythecnic University of Madrid.
 
 ## What do I do?
 I am a self learner. As such, I like tinkering with new languages, modifying all my hardware, customizing and distro hopping Linux... I am really interested in learning new things.
