@@ -1,4 +1,10 @@
-Most of the development is now happening in my personal Gitea.
+Most of the development is now happening in my personal Git.
+
+
+
+Currently working with Rust.
+
+
 
 # 0xSteeW (Daniel Pérez)
 
