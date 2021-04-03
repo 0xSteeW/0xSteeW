@@ -1,4 +1,5 @@
 Most of the development is now happening in my personal Git.
+Also in: https://hg.sr.ht/~steew/
 
 
 
