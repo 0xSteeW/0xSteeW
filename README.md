@@ -37,7 +37,7 @@ If you have an open source project and need some help hit me up. I would be will
 ---
 ### War-prone things I like ;)
 #### Editor
-Vim | Doom Emacs
+Vim | Emacs (vanilla)
 
  ---
 #### Operating System
