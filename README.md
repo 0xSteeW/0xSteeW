@@ -1,1 +1,2 @@
-https://hg.sr.ht/~steew/
+# No longer using GitHub.
+https://dev.steew.cyou
